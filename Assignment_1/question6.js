@@ -1,9 +1,7 @@
 const customer = {
   firstName: "John",
   lastName: "Doe",
-  age: 30,
   city: "New York",
-  email: "john.doe@example.com",
 };
 
 const cart = [
